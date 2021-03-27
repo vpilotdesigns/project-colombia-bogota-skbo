@@ -1,0 +1,39 @@
+<AssetPackage Name="projectcolombia-airport-skbo" Version="0.1.97">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>El Dorado International Airport</Title>
+		<Manufacturer>Project Colombia</Manufacturer>
+		<Creator>Diego O-Andres R-</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\projectcolombia-airport-skbo\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\projectcolombia-airport-skbo</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skbo-airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\world\scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skbo-models">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

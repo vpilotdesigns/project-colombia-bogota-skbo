@@ -1,0 +1,8 @@
+<Project Version="2" Name="projectcolombia-skbo" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\projectcolombia-airport-skbo.xml</Package>
+	</Packages>
+</Project>
+

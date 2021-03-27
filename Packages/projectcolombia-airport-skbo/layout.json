@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/projectcolombia-airport-skbo/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399161780000000
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 143796,
+      "date": 132613338463373953
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ASPHALT_NEW.PNG.DDS",
+      "size": 43832,
+      "date": 132613336813328005
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ASPHALT_NEW.PNG.DDS.json",
+      "size": 102,
+      "date": 132613336813318031
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CONCRETE_FORM_4X8.PNG.DDS",
+      "size": 21992,
+      "date": 132613336810904321
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CONCRETE_FORM_4X8.PNG.DDS.json",
+      "size": 102,
+      "date": 132613336810864424
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ELNUEVODORADO_0.PNG.DDS",
+      "size": 11088,
+      "date": 132613336812659793
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ELNUEVODORADO_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132613336812649818
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FENCING_METAL_STRAIGHT.PNG.DDS",
+      "size": 87536,
+      "date": 132613336811143680
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/FENCING_METAL_STRAIGHT.PNG.DDS.json",
+      "size": 119,
+      "date": 132613336811103785
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MATERIAL_2.PNG.DDS",
+      "size": 87528,
+      "date": 132613336811412960
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MATERIAL_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132613336811402985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MATERIAL_28.PNG.DDS",
+      "size": 87528,
+      "date": 132613336812929071
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MATERIAL_28.PNG.DDS.json",
+      "size": 102,
+      "date": 132613336812919097
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/METAL_ROUGH.PNG.DDS",
+      "size": 11064,
+      "date": 132613336810445546
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/METAL_ROUGH.PNG.DDS.json",
+      "size": 102,
+      "date": 132613336810405653
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SOSTENEDORES.PNG.DDS",
+      "size": 174928,
+      "date": 132613336810714824
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SOSTENEDORES.PNG.DDS.json",
+      "size": 119,
+      "date": 132613336810674932
+    },
+    {
+      "path": "scenery/world/scenery/skbo-airport.bgl",
+      "size": 274111,
+      "date": 132613336819056592
+    },
+    {
+      "path": "scenery/world/scenery/SKBO-POLYGON.BGL",
+      "size": 1041,
+      "date": 132613336819165993
+    }
+  ]
+}
